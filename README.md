@@ -1,5 +1,8 @@
 # California Wildfires: An Analysis
-An analysis of California Wildfires, 2013-2020. Link to my spreadsheet: [here](https://docs.google.com/spreadsheets/d/1rExJMaAEiaiRb1maou204j6620tCPqnm6Vu4wLpOJio/edit?usp=sharing)
+An analysis of California Wildfires, 2013-2020. 
+
+Link to my spreadsheet: [here](https://docs.google.com/spreadsheets/d/1rExJMaAEiaiRb1maou204j6620tCPqnm6Vu4wLpOJio/edit?usp=sharing)
+
 By Srujay Korlakunta. 
 
 <hr>
