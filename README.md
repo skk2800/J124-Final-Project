@@ -78,7 +78,7 @@ My other analysis yielded other interesting results. Most fires start in the aft
 
 My first dataset on environmental conditions includes things like precipitation levels and air temperatures for California counties. I think it would be interesting to be able to use environmental characteristics to be able to predict if an area is fire-prone at any given time. If you could find a correlation between a few columns and the presence of a fire, you could prevent a lot of damage. 
 
- * “California Air Quality 2020“: [link to CSV](California_airquality.csv), [link to Kaggle](https://www.kaggle.com/thaddeussegura/california-air-quality-2020-through-sept10th)
+ * “California Air Quality“: [link to CSV](California_airquality.csv), [link to Kaggle](https://www.kaggle.com/thaddeussegura/california-air-quality-2020-through-sept10th)
 
 My second dataset is on CA air quality. Although the original dataset has a lot on the land damage (acres burned, structures damaged), it doesn’t talk about the adverse health effects of breathing in low quality air. I’d like to analyze how much of a detriment the increase in wildfires is causing in different areas.
 
