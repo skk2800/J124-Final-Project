@@ -63,18 +63,22 @@ Here, I created two pivot tables: one with the number of major incidents per yea
 
 ### Story
 
-The main takeaway I’d like to glean from my analysis is this: are wildfires in California getting worse, where are they located, and *can we predict them*? This is including “worse” by different measures, such as frequency (number of fires per year), severity (amount of damage each year), and with regard to health (air quality/smoke). 
+The main takeaway I’d like to glean from my analysis is this: are wildfires in California getting worse, where are they located, and *can we predict them*? This is including “worse” by different measures, such as frequency (number of fires per year), severity (amount of damage each year), and with regard to health (air quality/smoke, which I'd explore more in the future with another dataset). 
 
-From my analysis, I was able to get some answers to these. My final two pivot tables (showing number of acres burned per year and number of major incidents per year) show that both values, while fluctuating, have increased overall since 2013. In fact, between 2016 and 2018, the number of acres burned by wildfires went up by nearly 800%, although 2019 was a much better year for wildfires and fires seemed to have been contained relatively quickly (or the data is incomplete). Also, the answer to if the number of major wildfire incidents per year is going up is similar; although it increased from 2013 to 2019, 2019 represented quite a bit of drop off from 2018 (again, could be because of lack of reporting).
+From my analysis, I was able to get some answers to these, primarily for the first and second parts of the story. My final two pivot tables (showing number of acres burned per year and number of major incidents per year) show that both values, while fluctuating, have increased overall since 2013. In fact, between 2016 and 2018, the number of acres burned by wildfires went up by nearly 800%, although 2019 was a much better year for wildfires and fires seemed to have been contained relatively quickly (or the data is incomplete). Also, the answer to if the number of major wildfire incidents per year is going up is similar; although it increased from 2013 to 2019, 2019 represented quite a bit of drop off from 2018 (again, could be because of lack of reporting). 
 
-My other analysis yielded other interesting results. One is that it seems that the counties that are most affected by wildfires are the same as the ones in which major fires appear. Riverside, San Diego, Butte, and Shasta appear in both lists. Most fires start in the afternoon, with the peak being around 2pm. And finally, the average California wildfire lasts 84 days, with the longest being 672 days (almost 2 years)!
+The visualizations above show the "where they are located" component, with Riverside County having far more fires than all others. The counties that are most affected by wildfires are the same as the ones in which major fires appear. Riverside, San Diego, Butte, and Shasta appear in both lists.
+
+For the "can we predict them?" component of my story, I'd build on my existing analysis by using an additional dataset (shown below) to use environmental conditions as an indicator for wildfires, as well as a source at the Riverside County Fire Department that could provide insight into how they currently approach predicting fires using patrols, etc.
+
+My other analysis yielded other interesting results. Most fires start in the afternoon, with the peak being around 2pm. And finally, the average California wildfire lasts 84 days, with the longest being 672 days (almost 2 years).
 
 **Other datasets** I’d like to bring in include the following datasets from Kaggle:
- * “California Environmental Conditions Dataset": [all_conditions.csv](link to CSV), [https://www.kaggle.com/chelseazaloumis/cimis-dataset-with-fire-target](link to Kaggle)
+ * “California Environmental Conditions Dataset": [link to CSV](all_conditions.csv), [link to Kaggle](https://www.kaggle.com/chelseazaloumis/cimis-dataset-with-fire-target)
 
 My first dataset on environmental conditions includes things like precipitation levels and air temperatures for California counties. I think it would be interesting to be able to use environmental characteristics to be able to predict if an area is fire-prone at any given time. If you could find a correlation between a few columns and the presence of a fire, you could prevent a lot of damage. 
 
- * “California Air Quality 2020“: [California_airquality.csv](link to CSV), [https://www.kaggle.com/thaddeussegura/california-air-quality-2020-through-sept10th](link to Kaggle)
+ * “California Air Quality 2020“: [link to CSV](California_airquality.csv), [link to Kaggle](https://www.kaggle.com/thaddeussegura/california-air-quality-2020-through-sept10th)
 
 My second dataset is on CA air quality. Although the original dataset has a lot on the land damage (acres burned, structures damaged), it doesn’t talk about the adverse health effects of breathing in low quality air. I’d like to analyze how much of a detriment the increase in wildfires is causing in different areas.
 
