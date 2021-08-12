@@ -82,7 +82,7 @@ My first dataset on environmental conditions includes things like precipitation 
 
 My second dataset is on CA air quality. Although the original dataset has a lot on the land damage (acres burned, structures damaged), it doesn’t talk about the adverse health effects of breathing in low quality air. I’d like to analyze how much of a detriment the increase in wildfires is causing in different areas.
 
-**If I could talk to two people about this**, I’d speak to 
+**If I could talk to two people about this**, I’d speak to: 
  * Bill Weiser, the Riverside county Fire Chief. Adding more to my desire to be able to predict fireprone areas, I’d like to speak with him about what their current strategy is for tackling fires before they are too large. His phone number is (951) 940-6900. 
  * John R. Balmes, MD, Physician Member of the California Air Resources Board. I’d like to speak with him more about the adverse health effects of smoke caused by fires, and what we can do to keep ourselves safe from secondhand smoke. His phone number is (628) 206-8314.
 
