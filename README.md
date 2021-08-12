@@ -48,9 +48,10 @@ Here, I created two pivot tables: one with the number of major incidents per yea
 
 ### Visualizations
 
-![](wildfires_by_county_map.png)
-![](most_wildfires.png)
-![](most_major_incidents.png)
+
+[![Wildfires by County Map](wildfires_by_county_map.png)](https://datawrapper.dwcdn.net/ABFvR/1/)
+[![Most Wildfires](most_wildfires.png)](https://datawrapper.dwcdn.net/iyWks/1/)
+[![Most Major Incidents](most_major_incidents.png)](https://datawrapper.dwcdn.net/d63RT/1/)
 
 
 <hr>
@@ -64,14 +65,14 @@ From my analysis, I was able to get some answers to these. My final two pivot ta
 My other analysis yielded other interesting results. One is that it seems that the counties that are most affected by wildfires are the same as the ones in which major fires appear. Riverside, San Diego, Butte, and Shasta appear in both lists. Most fires start in the afternoon, with the peak being around 2pm. And finally, the average California wildfire lasts 84 days, with the longest being 672 days (almost 2 years)!
 
 **Other datasets** I’d like to bring in include the following datasets from Kaggle:
- * “California Environmental Conditions Dataset"
- * “California Air Quality 2020“
+ * “California Environmental Conditions Dataset": [all_conditions.csv](link to CSV), [https://www.kaggle.com/chelseazaloumis/cimis-dataset-with-fire-target](link to Kaggle)
+ * “California Air Quality 2020“: [California_airquality.csv](link to CSV), [https://www.kaggle.com/thaddeussegura/california-air-quality-2020-through-sept10th](link to Kaggle)
 
 The first dataset on environmental conditions includes things like precipitation levels and air temperatures for California counties. I think it would be interesting, in the age of data, to be able to use environmental characteristics to be able to predict if an area is fire-prone at any given time. If you could find a correlation between a few columns and the presence of a fire, you could prevent a lot of damage. The second dataset is on air quality. Although the original dataset has a lot on the land damage (acres burned, structures damaged), it doesn’t talk about the adverse health effects of breathing in low quality air. I’d like to analyze how much of a detriment the increase in wildfires is causing in different areas.
 
 **If I could talk to two people about this**, I’d speak to 
- * Bill Weiser, the Riverside county Fire Chief. Adding more to my desire to be able to predict fireprone areas, I’d like to speak with him about what their current strategy is for tackling fires before they are too big. His phone number is (951) 940-6900 . 
- * John R. Balmes, MD, Physician Member of the California Air Resources Board. I’d like to speak with him more about the adverse health effects of smoke caused by fires, and what we can do to keep ourselves safe from secondhand smoke. His phone number is  628-206-8314
+ * Bill Weiser, the Riverside county Fire Chief. Adding more to my desire to be able to predict fireprone areas, I’d like to speak with him about what their current strategy is for tackling fires before they are too big. His phone number is (951) 940-6900. 
+ * John R. Balmes, MD, Physician Member of the California Air Resources Board. I’d like to speak with him more about the adverse health effects of smoke caused by fires, and what we can do to keep ourselves safe from secondhand smoke. His phone number is (628) 206-8314.
 
 
 
