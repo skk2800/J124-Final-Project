@@ -63,7 +63,7 @@ Here, I created two pivot tables: one with the number of major incidents per yea
 
 ### Story
 
-The main takeaway I’d like to glean from my analysis is this: are wildfires in California getting worse, where are they located, and *can we predict them*? This is including “worse” by different measures, such as frequency (number of fires per year), severity (amount of damage each year), and with regard to health (air quality/smoke, which I'd explore more in the future with another dataset). 
+The main takeaway I’d like for my story to have: are wildfires in California getting worse, where are they located, and *can we predict them* using data? This is including “worse” by different measures, such as frequency (number of fires per year), severity (amount of damage each year), and with regard to health (air quality/smoke, which I'd explore more in the future with another dataset). 
 
 From my analysis, I was able to get some answers to these, primarily for the first and second parts of the story. My final two pivot tables (showing number of acres burned per year and number of major incidents per year) show that both values, while fluctuating, have increased overall since 2013. In fact, between 2016 and 2018, the number of acres burned by wildfires went up by nearly 800%, although 2019 was a much better year for wildfires and fires seemed to have been contained relatively quickly (or the data is incomplete). Also, the answer to if the number of major wildfire incidents per year is going up is similar; although it increased from 2013 to 2019, 2019 represented quite a bit of drop off from 2018 (again, could be because of lack of reporting). 
 
@@ -83,7 +83,7 @@ My first dataset on environmental conditions includes things like precipitation 
 My second dataset is on CA air quality. Although the original dataset has a lot on the land damage (acres burned, structures damaged), it doesn’t talk about the adverse health effects of breathing in low quality air. I’d like to analyze how much of a detriment the increase in wildfires is causing in different areas.
 
 **If I could talk to two people about this**, I’d speak to 
- * Bill Weiser, the Riverside county Fire Chief. Adding more to my desire to be able to predict fireprone areas, I’d like to speak with him about what their current strategy is for tackling fires before they are too big. His phone number is (951) 940-6900. 
+ * Bill Weiser, the Riverside county Fire Chief. Adding more to my desire to be able to predict fireprone areas, I’d like to speak with him about what their current strategy is for tackling fires before they are too large. His phone number is (951) 940-6900. 
  * John R. Balmes, MD, Physician Member of the California Air Resources Board. I’d like to speak with him more about the adverse health effects of smoke caused by fires, and what we can do to keep ourselves safe from secondhand smoke. His phone number is (628) 206-8314.
 
 
